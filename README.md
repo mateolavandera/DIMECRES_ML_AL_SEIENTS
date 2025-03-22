@@ -37,8 +37,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 
 ## Historial de canvis 
 | Data | Autor | Branch | Descripció |
-|---------|----------|----------|---------|
-
+|------------|-------|--------|-----------------------------------------------------|
 | 2025-03-22 | Alex | `main` | Modificación readme, concretament llistat d'elements |
 | 2025-03-22 | Mateo | `main` | Correcció del biagrama de blocs |
 
