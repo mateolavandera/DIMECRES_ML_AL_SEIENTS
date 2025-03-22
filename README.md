@@ -1,10 +1,9 @@
 # DIMECRES_ML_AL_SEIENTS
 ## Autors
-- Nom 1 (@usuariGitHub)
-- Nom 2 (@usuariGitHub)
-- Nom 3 (@usuariGitHub)
+- Nom 1 (@mateolavandera)
+- Nom 2 (@AlexLB4)
 
-## Versió - v1.0 ## Curs - Assignatura de Disseny de PCBs amb KiCad - [Curs 202X-202X]
+## Versió - v1.0 ## Curs - Assignatura de Disseny de PCBs amb KiCad - [Curs 2024-2025]
 
 ## Objectiu Descripció breu de l'objectiu del projecte.
 
