@@ -2,8 +2,8 @@ View this project on [CADLAB.io](https://cadlab.io/project/28988).
 
 # DIMECRES_ML_AL_SEIENTS
 ## Autors
-- Nom 1 (@mateolavandera)
-- Nom 2 (@AlexLB4)
+- Mateo Lavandera Mulet (@mateolavandera)
+- Alex Lara Bailon (@AlexLB4)
 
 ## Versió - v1.0 ## Curs - Assignatura de Disseny de PCBs amb KiCad - [Curs 2024-2025]
 
