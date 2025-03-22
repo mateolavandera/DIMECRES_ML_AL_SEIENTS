@@ -17,6 +17,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 → Memòria externa no volàtil per guardar posicions preprogramades.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
+![Diagrama de blocs](Diagrama%20de%20blocs%20EdD%20(1).jpg)
 
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
