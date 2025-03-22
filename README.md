@@ -8,9 +8,13 @@ View this project on [CADLAB.io](https://cadlab.io/project/28988).
 ## Versió - v1.0 ## Curs - Assignatura de Disseny de PCBs amb KiCad - [Curs 2024-2025]
 
 ## Objectiu Descripció breu de l'objectiu del projecte.
+L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'executar correctament les diferents funcions que controlen uns seients elèctrics d’un cotxe qualsevol.
 
 ## Requisits i especificacions
-- Llista de requisits tècnics i objectius a assolir.
+→ 3 motors (posició, alçada, reclinació) amb els seus finals de carrera. 
+→ Calefacció del seient. 
+→ Sensor digital de cinturons. 
+→ Memòria externa no volàtil per guardar posicions preprogramades.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
 
