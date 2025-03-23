@@ -22,13 +22,13 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
-| Regulador LDO 5V 1.5A  | LD1086V50 | TO-220 | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/53/db/00/58/09/98/4b/36/CD00001884.pdf/files/CD00001884.pdf/jcr:content/translations/en.CD00001884.pdf) | DigiKey | 1 |
+| Regulador Lineal 1.5 A  | LD1086V | TO-220 | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/53/db/00/58/09/98/4b/36/CD00001884.pdf/files/CD00001884.pdf/jcr:content/translations/en.CD00001884.pdf) | DigiKey | 1 |
 | Microcontrolador PIC 8-bit | PIC18F258-I/P | SOIC-28 | [Enllaç](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/39637d.pdf) | DigiKey | 1 |
-|  Sensor Analog 0C-100C | LM35DMX | 8-SOIC | [Enllaç](https://www.ti.com/lit/ds/symlink/lm35.pdf?HQS=dis-dk-null-digikeymode-dsf-pfnullwwe&ts=1742666999263&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm35) | DigiKey | 1 |
-| DRV Bipolar 4.5-36V  | L293DNE | 16-DIP | [Enllaç](https://rocelec.widen.net/view/pdf/wkqukq8bwz/slrs008d.pdf?t.download=true&u=5oefqw) | DigiKey | 3 |
-| Regulador LDO 5V 1.5A  | LD1086V50 | TO-220 | [Enllaç](https://...) | DigiKey | 1 |
-| Regulador LDO 5V 1.5A  | LD1086V50 | TO-220 | [Enllaç](https://...) | DigiKey | 1 |
-| Regulador LDO 5V 1.5A  | LD1086V50 | TO-220 | [Enllaç](https://...) | DigiKey | 1 |
+| Sensor Analog 0C-100C | LM35DMX | 8-SOIC | [Enllaç](https://www.ti.com/lit/ds/symlink/lm35.pdf?HQS=dis-dk-null-digikeymode-dsf-pfnullwwe&ts=1742666999263&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm35) | DigiKey | 1 |
+| DRV Bipolar 4.5-36 V  | L293D | 16-DIP | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf) | DigiKey | 2 |
+| Memòria EEPROM I2C 5 mA  | 24LC512T-I/SN | 8-SOIC | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA512-24LC512-24FC512-512K-Bit-I2C-Serial-EEPROM-20001754Q.pdf) | DigiKey | 1 |
+| Bus CAN (TRANSCEIVER) | TJA1051T	| 8-SOIC | [Enllaç](https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf) | DigiKey | 1 |
+| Final de carrera (Comparador) 5 V 2 mA  | LM393DT | 8-SOIC | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf) | DigiKey | 3 |
 
 ## Funcionalitats
 - [ ] Funció 1
