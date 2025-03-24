@@ -17,13 +17,14 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 → Memòria externa no volàtil per guardar posicions preprogramades.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
+### Primera versió
 ![Diagrama de blocs](Diagrama%20de%20blocs%20EdD%20(1).jpg)
 
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
 | Regulador Lineal 1.5 A  | LD1086V | TO-220 | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/53/db/00/58/09/98/4b/36/CD00001884.pdf/files/CD00001884.pdf/jcr:content/translations/en.CD00001884.pdf) | DigiKey | 1 |
-| Microcontrolador PIC 8-bit | PIC18F258-I/P | SOIC-28 | [Enllaç](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/39637d.pdf) | DigiKey | 1 |
+| Microcontrolador PIC 8-bit | PIC18F4580-I/PT | 44-TQFP | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf) | DigiKey | 1 |
 | Sensor Analog 0C-100C | LM35DMX | 8-SOIC | [Enllaç](https://www.ti.com/lit/ds/symlink/lm35.pdf?HQS=dis-dk-null-digikeymode-dsf-pfnullwwe&ts=1742666999263&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm35) | DigiKey | 1 |
 | DRV Bipolar 4.5-36 V  | L293D | 16-DIP | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf) | DigiKey | 2 |
 | Memòria EEPROM I2C 5 mA  | 24LC512T-I/SN | 8-SOIC | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA512-24LC512-24FC512-512K-Bit-I2C-Serial-EEPROM-20001754Q.pdf) | DigiKey | 1 |
@@ -40,4 +41,10 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 |------------|-------|--------|-----------------------------------------------------|
 | 2025-03-22 | Alex | `main` | Modificación readme, concretament llistat d'elements |
 | 2025-03-22 | Mateo | `main` | Correcció del biagrama de blocs |
+| 2025-03-23 | Mateo | `main` | Primera versió de l'esquemàtic  |
+
+
+
+
+
 
