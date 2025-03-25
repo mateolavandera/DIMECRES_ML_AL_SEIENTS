@@ -43,6 +43,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-03-23 | Mateo | `main` | Primera versió de l'esquemàtic  |
 | 2025-03-24 | Mateo | `main` | Segona versió de l'esquemàtic  |
 | 2025-03-24 | Alex | `main` | Segona versió del llistat d'elements |
+| 2025-03-25 | Mateo | `main` | Tercera versió de l'esquemàtic  |
 
 
 
