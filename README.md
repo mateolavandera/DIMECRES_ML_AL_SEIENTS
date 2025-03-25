@@ -20,6 +20,10 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 ### Primera versió
 ![Diagrama de blocs](Diagrama%20de%20blocs%20EdD%20(1).jpg)
 
+### Segona versió
+![Diagrama de blocs](sandbox:/mnt/data/Diagrama%20de%20blocs%20EdD%202.jpg)
+
+
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
@@ -29,6 +33,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | Memòria EEPROM I2C 5 mA  | 24LC512T-I/SN | 8-SOIC | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA512-24LC512-24FC512-512K-Bit-I2C-Serial-EEPROM-20001754Q.pdf) | DigiKey | 1 |
 | Bus CAN (TRANSCEIVER) | TJA1051T	| 8-SOIC | [Enllaç](https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf) | DigiKey | 1 |
 | Final de carrera (Comparador) 5 V 2 mA  | LM393DT (Dual) | 8-SOIC | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf) | DigiKey | 2 |
+
 
 ## Funcionalitats
 - [ ] Funció 1
