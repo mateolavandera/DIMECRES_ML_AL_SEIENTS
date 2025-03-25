@@ -29,6 +29,8 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | Memòria EEPROM I2C 5 mA  | 24LC512T-I/SN | 8-SOIC | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA512-24LC512-24FC512-512K-Bit-I2C-Serial-EEPROM-20001754Q.pdf) | DigiKey | 1 |
 | Bus CAN (TRANSCEIVER) | TJA1051T	| 8-SOIC | [Enllaç](https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf) | DigiKey | 1 |
 | Final de carrera (Comparador) 5 V 2 mA  | LM393DT (Dual) | 8-SOIC | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf) | DigiKey | 2 |
+| Condicionador de temperatura (Amplificador) 0.85 mA  | LT1638 | 8-MSOP | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/16389fg.pdf) | DigiKey | 1 |
+
 
 ## Funcionalitats
 - [ ] Funció 1
@@ -44,6 +46,10 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-03-24 | Mateo | `main` | Segona versió de l'esquemàtic  |
 | 2025-03-24 | Alex | `main` | Segona versió del llistat d'elements |
 | 2025-03-25 | Mateo | `main` | Tercera versió de l'esquemàtic  |
+| 2025-03-25 | Alex | `main` | Simulacions LTSpice |
+| 2025-03-25 | Alex | `main` | Modificació d'opamps en l'esquemàtic |
+| 2025-03-25 | Alex | `main` | Segona versió diagrama de blocs |
+
 
 
 
