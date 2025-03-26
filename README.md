@@ -49,6 +49,8 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-03-25 | Alex | `main` | Cuarta versió de l'esquemàtic  |
 | 2025-03-25 | Alex | `main` | Segona versió del diagrama de blocs |
 | 2025-03-25 | Alex | `main` | Simulacions LTSpice |
+| 2025-03-26 | Alex | `main` | Canvi del comparador, modificació de diagrama i simulacions |
+| 2025-03-26 | Mateo | `main` | Cinquena versió de l'esquemàtic |
 
 
 
