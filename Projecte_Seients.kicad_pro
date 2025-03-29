@@ -306,7 +306,7 @@
         "microvia_drill": 0.1,
         "name": "Potencia",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 0, 0)",
         "track_width": 0.2,
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -328,44 +328,24 @@
         "pattern": "Net-(D1-K)"
       },
       {
-        "netclass": "Potencia",
-        "pattern": "M3_OUT1"
-      },
-      {
-        "netclass": "Potencia",
-        "pattern": "M3_OUT2"
-      },
-      {
-        "netclass": "Potencia",
-        "pattern": "M1_OUT1"
-      },
-      {
-        "netclass": "Potencia",
-        "pattern": "M1_OUT2"
-      },
-      {
-        "netclass": "Potencia",
-        "pattern": "M2_OUT1"
-      },
-      {
-        "netclass": "Potencia",
-        "pattern": "M2_OUT2"
-      },
-      {
-        "netclass": "Analog",
-        "pattern": "Net-(J13-Pin_2)"
-      },
-      {
-        "netclass": "Analog",
-        "pattern": "Net-(U2-+IN_A)"
-      },
-      {
-        "netclass": "Potencia",
+        "netclass": "Digital",
         "pattern": "ACTIVACIO_RELE"
       },
       {
         "netclass": "Potencia",
         "pattern": "Net-(Q1-C) "
+      },
+      {
+        "netclass": "Potencia",
+        "pattern": "GNDPWR"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "*"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "Net-(U2-V_{OUT})"
       }
     ]
   },
