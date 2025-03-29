@@ -29,7 +29,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | Memòria EEPROM I2C 5 mA  | 24LC512T-I/SN | 8-SOIC | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA512-24LC512-24FC512-512K-Bit-I2C-Serial-EEPROM-20001754Q.pdf) | DigiKey | 1 |
 | Bus CAN (TRANSCEIVER) | TJA1051T	| 8-SOIC | [Enllaç](https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf) | DigiKey | 1 |
 | Final de carrera (Comparador) 5 V 4 mA  | LT1721 (Quad) | 16-SOIC | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/17201fc.pdf) | DigiKey | 1 |
-| Condicionador de temperatura (Amplificador) 0.85 mA  | LT1638 | 8-MSOP | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/16389fg.pdf) | DigiKey | 1 |
+| Condicionador de temperatura (Amplificador) 30 mA  | LT6234 | SSOP | [Enllaç]([https://www.analog.com/media/en/technical-documentation/data-sheets/16389fg.pdf](https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf)) | DigiKey | 1 |
 
 
 ## Funcionalitats
@@ -51,6 +51,8 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-03-25 | Alex | `main` | Simulacions LTSpice |
 | 2025-03-26 | Alex | `main` | Canvi del comparador, modificació de diagrama i simulacions |
 | 2025-03-26 | Mateo | `main` | Cinquena versió de l'esquemàtic |
+| 2025-03-29 | Mateo | `main` | Modificació en taula de components: canvi opamp i afegir els sensors |
+| 2025-03-29 | Mateo | `main` | Sisena versió de l'esquemàtic |
 
 
 
