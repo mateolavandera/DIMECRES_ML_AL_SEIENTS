@@ -29,7 +29,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | Memòria EEPROM I2C 5 mA  | 24LC512T-I/SN | 8-SOIC | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA512-24LC512-24FC512-512K-Bit-I2C-Serial-EEPROM-20001754Q.pdf) | DigiKey | 1 |
 | Bus CAN (TRANSCEIVER) | TJA1051T	| 8-SOIC | [Enllaç](https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf) | DigiKey | 1 |
 | Final de carrera (Comparador) 5 V 4 mA  | LT1721 (Quad) | 16-SOIC | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/17201fc.pdf) | DigiKey | 1 |
-| Condicionador de temperatura (Amplificador) 30 mA  | LT6234 | 16-SSOP | [Enllaç]([https://www.analog.com/media/en/technical-documentation/data-sheets/16389fg.pdf](https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf)) | DigiKey | 1 |
+| Condicionador de temperatura (Amplificador) 30 mA  | LT6234 | 16-SSOP | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf) | DigiKey | 1 |
 | Sensor de temperatura 60uA | LM35 | 8-SOIC | [Enllaç](https://www.ti.com/lit/ds/symlink/lm35.pdf) | DigiKey | 1 |
 | Relé 12mA | Omron G5V-1 | SIP-6 | [Enllaç](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf) | DigiKey | 1 |
 
