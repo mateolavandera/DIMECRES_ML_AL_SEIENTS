@@ -24,7 +24,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
 | Regulador Lineal 1.5 A  | LD1086V | TO-220 | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/53/db/00/58/09/98/4b/36/CD00001884.pdf/files/CD00001884.pdf/jcr:content/translations/en.CD00001884.pdf) | DigiKey | 1 |
-| Microcontrolador PIC 8-bit | PIC18F4580-I/PT | 44-TQFP | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf) | DigiKey | 1 |
+| Microcontrolador PIC 8-bit 300mA | PIC18F4580-I/PT | 44-TQFP | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf) | DigiKey | 1 |
 | DRV Bipolar 4.5-36 V  | L293D | 16-DIP | [Enllaç](https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf) | DigiKey | 2 |
 | Memòria EEPROM I2C 5 mA  | 24LC512T-I/SN | 8-SOIC | [Enllaç](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA512-24LC512-24FC512-512K-Bit-I2C-Serial-EEPROM-20001754Q.pdf) | DigiKey | 1 |
 | Bus CAN (TRANSCEIVER) | TJA1051T	| 8-SOIC | [Enllaç](https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf) | DigiKey | 1 |
