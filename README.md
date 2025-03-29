@@ -17,7 +17,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 → Memòria externa no volàtil per guardar posicions preprogramades.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
-### Segona versió
+### Tercera versió (final)
 ![Diagrama de blocs](Diagrama%20de%20blocs%20EdD%203.jpg)
 
 ## Taula de components
@@ -55,6 +55,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-03-26 | Mateo | `main` | Cinquena versió de l'esquemàtic |
 | 2025-03-29 | Mateo | `main` | Modificació en taula de components: canvi opamp i afegir els sensors |
 | 2025-03-29 | Mateo | `main` | Sisena versió de l'esquemàtic |
+| 2025-03-29 | Alex | `main` | Tercera versió diagrama de blocs |
 
 
 
