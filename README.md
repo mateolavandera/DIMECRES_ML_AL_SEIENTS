@@ -31,6 +31,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | Final de carrera (Comparador) 5 V 4 mA  | LT1721 (Quad) | 16-SOIC | [Enllaç](https://www.analog.com/media/en/technical-documentation/data-sheets/17201fc.pdf) | DigiKey | 1 |
 | Condicionador de temperatura (Amplificador) 30 mA  | LT6234 | 16-SSOP | [Enllaç]([https://www.analog.com/media/en/technical-documentation/data-sheets/16389fg.pdf](https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf)) | DigiKey | 1 |
 | Sensor de temperatura 60uA | LM35 | 8-SOIC | [Enllaç](https://www.ti.com/lit/ds/symlink/lm35.pdf) | DigiKey | 1 |
+| Relé 12mA | Omron G5V-1 | SIP-6 | [Enllaç](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf) | DigiKey | 1 |
 
 
 
