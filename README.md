@@ -59,6 +59,9 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-03-29 | Alex | `main` | Tercera versió diagrama de blocs |
 | 2025-03-29 | Mateo | `main` | Primera versió prematura de layout |
 | 2025-03-30 | Mateo | `main` | Segona versió prematura de layout |
+| 2025-03-31 | Mateo | `main` | Tercera versió prematura de layout |
+| 2025-03-31 | Mateo | `main` | Setena versió de l'esquemàtic |
+
 
 
 
