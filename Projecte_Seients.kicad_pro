@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.0,
-          "height": 4.0,
-          "width": 4.0
+          "drill": 0.5,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,9 +58,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.0,
+          "gap": 0.2,
           "via_gap": 0.0,
-          "width": 0.0
+          "width": 0.3
         }
       ],
       "drc_exclusions": [],
@@ -586,6 +586,30 @@
       {
         "netclass": "Potencia",
         "pattern": "Net-(D4-A)"
+      },
+      {
+        "netclass": "Potencia",
+        "pattern": "Net-(D17-K)"
+      },
+      {
+        "netclass": "Potencia",
+        "pattern": "Net-(D16-A)"
+      },
+      {
+        "netclass": "Potencia",
+        "pattern": "Net-(D15-K)"
+      },
+      {
+        "netclass": "Potencia",
+        "pattern": "Net-(D14-A)"
+      },
+      {
+        "netclass": "Potencia",
+        "pattern": "Net-(D13-K)"
+      },
+      {
+        "netclass": "Potencia",
+        "pattern": "Net-(D11-A)"
       }
     ]
   },
