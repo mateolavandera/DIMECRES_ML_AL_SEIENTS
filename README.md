@@ -64,6 +64,8 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-03-31 | Mateo | `main` | Setena versió de l'esquemàtic |
 | 2025-04-1 | Alex | `main` | Modificació components botonera a l'esquemàtic|
 | 2025-04-1 | Alex | `main` | Nova simulació finals de carrera |
+| 2025-04-1 | Mateo | `main` | Quarta versió de layout |
+
 
 
 
