@@ -67,6 +67,7 @@ L’objectiu del nostre projecte és dissenyar un sistema que sigui capaç d'exe
 | 2025-04-1 | Mateo | `main` | Quarta versió de layout |
 | 2025-04-6 | Alex | `main` | Afegir nova botonera a l'esquemàtic |
 | 2025-04-7 | Alex | `main` | Cinquena versió layout |
+| 2025-04-8 | Alex | `main` | Sisena versió layout |
 
 
 
